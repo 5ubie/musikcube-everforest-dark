@@ -3,7 +3,7 @@
 ![screenshot](https://github.com/5ubie/musikcube-everforest-dark/blob/main/assets/musikcube.png?raw=true)
 
 ### About
-Uses the [Everforest palette](https://github.com/sainnhe/everforest/blob/master/palette.md) while (mostly) following Musikcube's default theme color conventions.
+Uses the [Everforest Hard Dark palette](https://github.com/sainnhe/everforest/blob/master/palette.md) while (mostly) following Musikcube's default theme color conventions.
 
 ### Installation
 1. Clone the repo
