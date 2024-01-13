@@ -1,6 +1,6 @@
 # [Everforest Hard Dark](https://github.com/sainnhe/everforest) for Musikcube
 
-![screenshot](https://raw.githubusercontent.com/5ubie/musikcube-everforest-dark/assets/musikcube.png)
+![screenshot](https://github.com/5ubie/musikcube-everforest-dark/blob/main/assets/musikcube.png?raw=true)
 
 ### About
 Uses the [Everforest palette](https://github.com/sainnhe/everforest/blob/master/palette.md) while (mostly) following Musikcube's default theme color conventions.
