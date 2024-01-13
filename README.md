@@ -1,4 +1,4 @@
-# [Everforest Hard Dark](https://github.com/sainnhe/everforest) for Musikcube
+# Everforest Dark for Musikcube
 
 ![screenshot](https://github.com/5ubie/musikcube-everforest-dark/blob/main/assets/musikcube.png?raw=true)
 
@@ -14,4 +14,5 @@ Make sure `degrade to 256 color palette` is turned off in Musikcube's settings
 
 ### Notes
 For more info on Musikcube, check out the [repo](https://github.com/clangen/musikcube).
+
 For more info on Everforest, check out the [repo](https://github.com/sainnhe/everforest).
