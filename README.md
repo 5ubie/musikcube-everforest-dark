@@ -9,7 +9,7 @@ This repo contains theme files for hard, medium and soft variants of the scheme.
 
 ## Installation
 1. Clone the repo
-2. Copy the .json theme file(s) to `~/.config/musikcube/themes/` or `/usr/local/share/musikcube/themes/`
+2. Copy the .json theme file(s) to `~/.config/musikcube/themes/`
 3. Enable `everforest-[variant]-dark` in the `color theme` option in Musikcube's settings
 
 Make sure `degrade to 256 color palette` is turned off in Musikcube's settings.
